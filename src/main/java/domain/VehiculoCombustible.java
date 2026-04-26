@@ -28,4 +28,3 @@ public class VehiculoCombustible extends Vehiculo {
         return total;
     }
 }
-
